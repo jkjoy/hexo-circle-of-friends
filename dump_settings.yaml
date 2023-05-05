@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://www.imsun.pw/links/
+- link: https://imsun.pw/links/
   theme: volantis
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
