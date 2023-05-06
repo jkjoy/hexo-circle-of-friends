@@ -18,7 +18,9 @@ HTTP_PROXY: false
 LINK:
 - link: https://imsun.pw/links/
   theme: volantis
-MAX_POSTS_NUM: 5
+- link: https://blog.sunpeiwen.com/links
+  theme: butterfly
+MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: false
