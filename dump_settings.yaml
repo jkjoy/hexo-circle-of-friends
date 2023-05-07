@@ -18,23 +18,11 @@ HTTP_PROXY: false
 LINK:
 - link: https://imsun.pw/links/
   theme: volantis
-- link: https://blog.sunpeiwen.com/links/
+- link: https://blog.sunpeiwen.com/links
   theme: butterfly
-- link: ''
-  theme: ''
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
-  list:
-  - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
-    - https://noionion.top/
-    - https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
-    - https://akilar.top/
-    - https://akilar.top/images/headimage.png
-  - - elizen
-    - https://elizen.me/
-    - https://akilar.top/images/headimage.png
-    - hello.xml
+  list: []
