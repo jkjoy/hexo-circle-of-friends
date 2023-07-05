@@ -17,7 +17,7 @@
 LINK: [
      { link: "https://sunn.ee/links/", theme: "volantis" },  # 友链页地址1，修改为你的友链页地址
      { link: "https://jkjoy.cn/link/", theme: "butterfly" },  # 友链页地址2
-     { link: "https://loliko.cn/links/", theme: "common1" }, # 友链页地址3
+     { link: "https://www.loliko.cn/links.html", theme: "common1" }, # 友链页地址3
 #     ...
 ]
 
