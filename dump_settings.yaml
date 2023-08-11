@@ -16,10 +16,10 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://sunn.ee/links/
-  theme: volantis
 - link: https://jkjoy.cn/link/
   theme: butterfly
+- link: https://blog.sunpeiwen.com/links/
+  theme: stellar
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
