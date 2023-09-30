@@ -16,8 +16,8 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://blog.loliko.cn/link/
-  theme: butterfly
+- link: https://www.jkjoy.cn/links/
+  theme: fluid
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
