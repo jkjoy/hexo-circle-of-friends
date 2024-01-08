@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://www.jkjoy.cn/links/
+- link: https://blog.jkjoy.cn/links/
   theme: fluid
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
