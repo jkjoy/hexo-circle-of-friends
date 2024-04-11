@@ -1,0 +1,83 @@
+[
+    {
+      "class_name": "推荐 ",
+      "class_desc": "静态博客渲染",
+      "link_list": [
+        {
+          "name": "囧",
+          "link": "https://jiong.us",
+          "avatar": "https://q1.qlogo.cn/g?b=qq&nk=80116747&s=100",
+          "descr": "人在囧途,一个开放的去中心化Mastodon实例"
+        },        
+        {
+          "name": "Hexo",
+          "link": "https://hexo.io/zh-tw/",
+          "avatar": "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg",
+          "descr": "快速、簡單且強大的網誌框架"
+        }
+      ]
+    },
+    {
+      "class_name": "網站",
+      "class_desc": "值得推薦的網站",
+      "link_list": [
+        {
+          "name": "老孙博客",
+          "link": "https://www.sunpeiwen.com/",
+          "avatar": "https://cdn.chaihu.top/apple-touch-icon.png",
+          "descr": "资深网民孙先生"
+        },
+        {
+          "name": "时光沉淀",
+          "link": "https://www.loliko.cn/",
+          "avatar": "https://s2.loli.net/2023/04/08/wys4iOM2haocQDp.png",
+          "descr": "日常生活分享"
+        },
+        {
+          "name": "梦想走过的地方",
+          "link": "https://blog.asbid.cn/",
+          "avatar": "https://blog.asbid.cn/logo.png",
+          "descr": "DIY爱好者"
+        }
+      ]
+    },
+    {
+      "class_name": "友情链接",
+      "class_desc": "网上邻居",
+      "link_list": [
+
+        {
+          "name": "Adil",
+          "link": "https://blog.adil.com.cn",
+          "avatar": "https://tucdn.wpon.cn/2023/04/06/15dbbb2004b44.jpg",
+          "descr": "BW/HANA顾问,BI工程师,数据分析师,数据科学家。"
+        },
+
+        {
+          "name": "Leonus",
+          "link": "https://blog.leonus.cn/",
+          "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5",
+          "descr": "进一寸有进一寸的欢喜。"
+        },
+        {
+           "name": "安知鱼`Blog",
+           "link": "https://blog.anheyu.com/",
+           "avatar": "https://img01.anheyu.com/useruploads/90/2023/04/23/6444e85234e51.jpg",
+           "descr": "生活明朗，万物可爱"
+        },
+        {
+           "name": "归臧",
+           "link": "https://nuoea.com/",
+           "avatar": "https://g.ima.cm/avatar/020d365ea2596ef6d516143bb0552704?d=identicon",
+           "descr": "有呀"
+        },        
+        {
+           "name": "长街短梦",
+           "link": "https://wangyunzi.com/",
+           "avatar": "https://blog.wangyunzi.com/avatar.png",
+           "descr": "此行山高路远，我只剩口袋玫瑰一片"
+        } 
+      ]
+    }
+  ]
+ 
