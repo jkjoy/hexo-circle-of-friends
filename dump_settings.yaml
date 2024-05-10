@@ -16,11 +16,11 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://blog.jkjoy.cn/links/
-  theme: fluid
+- link: https://blog.loliko.cn/link/
+  theme: butterfly
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
-  enable: false
-  json_api: ''
+  enable: true
+  json_api: 'https://f.sunpeiwen.com/links.json'
   list: []
