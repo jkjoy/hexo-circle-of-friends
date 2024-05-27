@@ -17,7 +17,7 @@
 LINK: [
   #   { link: "https://sunn.ee/links/", theme: "volantis" },  # 友链页地址1，修改为你的友链页地址
      { link: "https://blog.loliko.cn/link/", theme: "butterfly" },  # 友链页地址2
-     { link: "https://ai.imsun.org/links/", theme: "fluid" }, # 友链页地址3
+  #   { link: "https://ai.imsun.org/links/", theme: "fluid" }, # 友链页地址3
 #     ...
 ]
 
@@ -31,7 +31,7 @@ LINK: [
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
     enable: true,
-    json_api: "https://blog.loliko.cn/link.json",
+    json_api: "https://f.sunpeiwen.com/links.json",
     list: [
         # 示例1：
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
@@ -81,7 +81,7 @@ MAX_POSTS_NUM: 5
 HTTP_PROXY: false
 
 # 过期文章清除（天）
-OUTDATE_CLEAN: 60
+OUTDATE_CLEAN: 360
 
 # 5.x以后默认为sqlite，同时不建议使用leancloud
 # 存储方式，可选项：leancloud，mysql，sqlite，mongodb；默认为sqlite
