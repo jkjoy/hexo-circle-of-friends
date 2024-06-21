@@ -21,6 +21,6 @@ LINK:
 MAX_POSTS_NUM: 10
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
-  enable: true
+  enable: false
   json_api: 'https://f.sunpeiwen.com/links.json'
   list: []
