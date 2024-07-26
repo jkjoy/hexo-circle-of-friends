@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。
 LINK: [
-  #   { link: "https://sunn.ee/links/", theme: "volantis" },  # 友链页地址1，修改为你的友链页地址
+     { link: "https://www.imsun.org/links/", theme: "common1" },  # 友链页地址1，修改为你的友链页地址
      { link: "https://blog.loliko.cn/link/", theme: "butterfly" },  # 友链页地址2
   #   { link: "https://ai.imsun.org/links/", theme: "fluid" }, # 友链页地址3
 #     ...
@@ -31,7 +31,7 @@ LINK: [
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
     enable: false,
-    json_api: "https://f.sunpeiwen.com/links.json",
+    json_api: "",
     list: [
         # 示例1：
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
