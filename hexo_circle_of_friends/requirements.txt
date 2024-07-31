@@ -46,7 +46,7 @@ Scrapy==2.9.0
 secure-cookie==0.2.0
 service-identity==24.1.0
 six==1.16.0
-SQLAlchemy==2.0.31
+SQLAlchemy==1.4.52
 starlette==0.37.2
 Twisted==22.10.0
 typing-extensions==4.12.2
